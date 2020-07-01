@@ -1,0 +1,1 @@
+{"source": "fncs_goss_bridge.py", "processId": "931472720", "timestamp": 1592901343000, "processStatus": "RUNNING", "logMessage": "isInitialized check: True", "logLevel": "DEBUG", "storeToDb": true}

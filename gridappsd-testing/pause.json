@@ -1,0 +1,9 @@
+{
+   "source":"fncs_goss_bridge.py",
+   "processId":"243050411",
+   "timestamp":1592378001000,
+   "processStatus":"RUNNING",
+   "logMessage":"received message {'content-length': '20', 'expires': '0', 'destination': '/topic/goss.gridappsd.simulation.input.243050411', 'GOSS_SUBJECT': 'system', 'subscription': '118712', 'priority': '4', 'GOSS_HAS_SUBJECT': 'True', 'message-id': 'ID:4106ea05d9f7-36711-1592377906535-4:8:-1:1:2', 'timestamp': '1592378001544'}________________{'command': 'pause'}",
+   "logLevel":"DEBUG",
+   "storeToDb":true
+}
